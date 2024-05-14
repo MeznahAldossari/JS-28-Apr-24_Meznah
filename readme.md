@@ -50,7 +50,7 @@
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/fahadssgg">
+                        <a href="https://github.com/MeznahAldossari/">
                             <img src="./images/github-logo.png" width="25">
                         </a>
                     </td>
